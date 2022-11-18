@@ -1,0 +1,19 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": [
+            {
+                "text": "Remdur",
+                "color": "#EA7940"
+            },
+            {
+                "text": "\nby Frektip ",
+                "color": "#CF130C"
+            },
+            {
+                "text": " | 1.17.X+",
+                "color": "#C1EB53"
+            }
+        ]
+    }
+}
