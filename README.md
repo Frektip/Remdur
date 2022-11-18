@@ -43,3 +43,9 @@ It currently supports: mainhand/offhand/head/chest/legs/feet Slots
  - Can support any level of Unbreaking enchantment
  - If you don't specify the "Method" or "Unbreaking" parameters, their default values will be 1 for each
  - This datapack uses Aeldrion's [random uniform rng generator](https://github.com/Aeldrion/Minecraft-Random)
+
+You can try yourself this datapack by using the command format:
+`/function remdur:test/<action>`
+
+You can check those files and see how you can properly setup your function file before removing them
+
