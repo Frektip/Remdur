@@ -49,3 +49,5 @@ You can try yourself this datapack by using the command format:
 
 You can check those files and see how you can properly setup your function file before removing them
 
+If you want to remove the datapack make sure to use `/function remdur:uninstall` so the scoreboard and data storages will get removed from your world
+
