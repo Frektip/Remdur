@@ -1,0 +1,16 @@
+[
+  {
+    "function": "minecraft:copy_nbt",
+    "source": {
+      "type": "minecraft:storage",
+      "source": "remdur:item_dura"
+    },
+    "ops": [
+      {
+        "source": "item.Damage[0]",
+        "target": "Damage",
+        "op": "replace"
+      }
+    ]
+  }
+]
